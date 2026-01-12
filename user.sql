@@ -1,0 +1,13 @@
+INSERT INTO `user` (`id`, `name`, `password`, `level`, `score`) VALUES (000036, '332df', 'wi', 0, 0);
+INSERT INTO `user` (`id`, `name`, `password`, `level`, `score`) VALUES (000037, 'ewq', 'ewq', 0, 0);
+INSERT INTO `user` (`id`, `name`, `password`, `level`, `score`) VALUES (000039, 'aaa', 'aaa', 0, 0);
+INSERT INTO `user` (`id`, `name`, `password`, `level`, `score`) VALUES (000040, 'dfs', 'sdf', 0, 0);
+INSERT INTO `user` (`id`, `name`, `password`, `level`, `score`) VALUES (000041, 'ytu', '47', 0, 0);
+INSERT INTO `user` (`id`, `name`, `password`, `level`, `score`) VALUES (000042, 'wfa', 'zc', 0, 0);
+INSERT INTO `user` (`id`, `name`, `password`, `level`, `score`) VALUES (000043, 'wfax', 'waf', 0, 0);
+INSERT INTO `user` (`id`, `name`, `password`, `level`, `score`) VALUES (000044, 'sa', '12', 0, 0);
+INSERT INTO `user` (`id`, `name`, `password`, `level`, `score`) VALUES (000045, '11', '11', 0, 0);
+INSERT INTO `user` (`id`, `name`, `password`, `level`, `score`) VALUES (000046, '1', '1', 0, 0);
+INSERT INTO `user` (`id`, `name`, `password`, `level`, `score`) VALUES (000047, 'fegrfe', 'waddwadw', 0, 0);
+INSERT INTO `user` (`id`, `name`, `password`, `level`, `score`) VALUES (000048, 'eaf', 'efa', 0, 0);
+INSERT INTO `user` (`id`, `name`, `password`, `level`, `score`) VALUES (000049, 'test', 'test', 0, 0);
